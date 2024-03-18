@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3DE77567-1664-459F-B4BD-EC2B86D26743"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD1EEE11-F154-4D56-AD73-FA2314EB89CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrify/UI/LogsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "previews"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AD1EEE11-F154-4D56-AD73-FA2314EB89CE - b178c4df20568c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Hydrify.LogsView_Previews.previews.getter : some"
+                  moduleName = "Hydrify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham/Documents/All%20Projects%20Updated/Shubham%20Data/Development/Hydrify/Hydrify/UI/LogsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "AD1EEE11-F154-4D56-AD73-FA2314EB89CE - b178c4df20568c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Hydrify.LogsView_Previews.previews.getter : some"
+                  moduleName = "Hydrify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham/Documents/All%20Projects%20Updated/Shubham%20Data/Development/Hydrify/Hydrify/UI/LogsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

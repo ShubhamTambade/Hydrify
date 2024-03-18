@@ -7,6 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		510FA8072BA5AED7003E0F0D /* AddWaterIntakeSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510FA8062BA5AED7003E0F0D /* AddWaterIntakeSheet.swift */; };
+		510FA80A2BA5BC4B003E0F0D /* WaterIntakeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510FA8092BA5BC4B003E0F0D /* WaterIntakeViewModel.swift */; };
+		510FA80C2BA5C193003E0F0D /* LogsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510FA80B2BA5C193003E0F0D /* LogsView.swift */; };
+		510FA80E2BA62689003E0F0D /* global.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510FA80D2BA62689003E0F0D /* global.swift */; };
+		510FA8102BA627AF003E0F0D /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510FA80F2BA627AF003E0F0D /* OnboardingView.swift */; };
+		510FA8122BA638C0003E0F0D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510FA8112BA638C0003E0F0D /* HomeView.swift */; };
+		510FA8142BA63D2A003E0F0D /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510FA8132BA63D2A003E0F0D /* CustomTabBar.swift */; };
+		510FA8162BA65240003E0F0D /* ProgressBars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510FA8152BA65240003E0F0D /* ProgressBars.swift */; };
+		510FA8192BA7889B003E0F0D /* NotificationDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510FA8182BA7889B003E0F0D /* NotificationDelegate.swift */; };
+		516B4C8B2BA834FF005FA6E6 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 516B4C7C2BA834FD005FA6E6 /* 9.png */; };
+		516B4C8C2BA834FF005FA6E6 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 516B4C7D2BA834FD005FA6E6 /* 3.png */; };
+		516B4C8D2BA834FF005FA6E6 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 516B4C7E2BA834FD005FA6E6 /* 8.png */; };
+		516B4C8F2BA834FF005FA6E6 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 516B4C802BA834FE005FA6E6 /* 7.png */; };
+		516B4C902BA834FF005FA6E6 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 516B4C812BA834FE005FA6E6 /* 4.png */; };
+		516B4C912BA834FF005FA6E6 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 516B4C822BA834FE005FA6E6 /* 2.png */; };
+		516B4C932BA834FF005FA6E6 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 516B4C842BA834FE005FA6E6 /* 6.png */; };
+		516B4C952BA834FF005FA6E6 /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 516B4C862BA834FE005FA6E6 /* 0.png */; };
+		516B4C982BA834FF005FA6E6 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 516B4C892BA834FF005FA6E6 /* 1.png */; };
+		516B4C992BA834FF005FA6E6 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 516B4C8A2BA834FF005FA6E6 /* 5.png */; };
 		51B3D95E2BA30D4000C3B346 /* HydrifyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B3D95D2BA30D4000C3B346 /* HydrifyApp.swift */; };
 		51B3D9602BA30D4000C3B346 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B3D95F2BA30D4000C3B346 /* ContentView.swift */; };
 		51B3D9622BA30D4300C3B346 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51B3D9612BA30D4300C3B346 /* Assets.xcassets */; };
@@ -16,6 +35,7 @@
 		51B3D9742BA30D4400C3B346 /* HydrifyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B3D9732BA30D4400C3B346 /* HydrifyTests.swift */; };
 		51B3D97E2BA30D4400C3B346 /* HydrifyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B3D97D2BA30D4400C3B346 /* HydrifyUITests.swift */; };
 		51B3D9802BA30D4400C3B346 /* HydrifyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B3D97F2BA30D4400C3B346 /* HydrifyUITestsLaunchTests.swift */; };
+		51B3D98D2BA318D900C3B346 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B3D98C2BA318D900C3B346 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +56,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		510FA8062BA5AED7003E0F0D /* AddWaterIntakeSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddWaterIntakeSheet.swift; sourceTree = "<group>"; };
+		510FA8092BA5BC4B003E0F0D /* WaterIntakeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterIntakeViewModel.swift; sourceTree = "<group>"; };
+		510FA80B2BA5C193003E0F0D /* LogsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogsView.swift; sourceTree = "<group>"; };
+		510FA80D2BA62689003E0F0D /* global.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = global.swift; sourceTree = "<group>"; };
+		510FA80F2BA627AF003E0F0D /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		510FA8112BA638C0003E0F0D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		510FA8132BA63D2A003E0F0D /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
+		510FA8152BA65240003E0F0D /* ProgressBars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBars.swift; sourceTree = "<group>"; };
+		510FA8182BA7889B003E0F0D /* NotificationDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationDelegate.swift; sourceTree = "<group>"; };
+		516B4C7C2BA834FD005FA6E6 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		516B4C7D2BA834FD005FA6E6 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		516B4C7E2BA834FD005FA6E6 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		516B4C802BA834FE005FA6E6 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		516B4C812BA834FE005FA6E6 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		516B4C822BA834FE005FA6E6 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		516B4C842BA834FE005FA6E6 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		516B4C862BA834FE005FA6E6 /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
+		516B4C892BA834FF005FA6E6 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = ../../../../../../../Desktop/1.png; sourceTree = "<group>"; };
+		516B4C8A2BA834FF005FA6E6 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
 		51B3D95A2BA30D4000C3B346 /* Hydrify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hydrify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51B3D95D2BA30D4000C3B346 /* HydrifyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HydrifyApp.swift; sourceTree = "<group>"; };
 		51B3D95F2BA30D4000C3B346 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,6 +87,7 @@
 		51B3D9792BA30D4400C3B346 /* HydrifyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HydrifyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		51B3D97D2BA30D4400C3B346 /* HydrifyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HydrifyUITests.swift; sourceTree = "<group>"; };
 		51B3D97F2BA30D4400C3B346 /* HydrifyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HydrifyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		51B3D98C2BA318D900C3B346 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +115,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		510FA8082BA5BC28003E0F0D /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				510FA8092BA5BC4B003E0F0D /* WaterIntakeViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		510FA8172BA7888F003E0F0D /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				510FA8182BA7889B003E0F0D /* NotificationDelegate.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		516B4C792BA8348F005FA6E6 /* ScreenShots */ = {
+			isa = PBXGroup;
+			children = (
+				516B4C892BA834FF005FA6E6 /* 1.png */,
+				516B4C822BA834FE005FA6E6 /* 2.png */,
+				516B4C7D2BA834FD005FA6E6 /* 3.png */,
+				516B4C812BA834FE005FA6E6 /* 4.png */,
+				516B4C862BA834FE005FA6E6 /* 0.png */,
+				516B4C7E2BA834FD005FA6E6 /* 8.png */,
+				516B4C842BA834FE005FA6E6 /* 6.png */,
+				516B4C802BA834FE005FA6E6 /* 7.png */,
+				516B4C8A2BA834FF005FA6E6 /* 5.png */,
+				516B4C7C2BA834FD005FA6E6 /* 9.png */,
+			);
+			path = ScreenShots;
+			sourceTree = "<group>";
+		};
 		51B3D9512BA30D4000C3B346 = {
 			isa = PBXGroup;
 			children = (
@@ -98,12 +171,16 @@
 		51B3D95C2BA30D4000C3B346 /* Hydrify */ = {
 			isa = PBXGroup;
 			children = (
+				516B4C792BA8348F005FA6E6 /* ScreenShots */,
+				510FA8172BA7888F003E0F0D /* Helper */,
+				510FA8082BA5BC28003E0F0D /* ViewModel */,
+				51B3D98E2BA320F500C3B346 /* UI */,
 				51B3D95D2BA30D4000C3B346 /* HydrifyApp.swift */,
-				51B3D95F2BA30D4000C3B346 /* ContentView.swift */,
 				51B3D9612BA30D4300C3B346 /* Assets.xcassets */,
 				51B3D9662BA30D4300C3B346 /* Persistence.swift */,
 				51B3D9682BA30D4300C3B346 /* Hydrify.xcdatamodeld */,
 				51B3D9632BA30D4300C3B346 /* Preview Content */,
+				510FA80D2BA62689003E0F0D /* global.swift */,
 			);
 			path = Hydrify;
 			sourceTree = "<group>";
@@ -131,6 +208,21 @@
 				51B3D97F2BA30D4400C3B346 /* HydrifyUITestsLaunchTests.swift */,
 			);
 			path = HydrifyUITests;
+			sourceTree = "<group>";
+		};
+		51B3D98E2BA320F500C3B346 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				510FA80B2BA5C193003E0F0D /* LogsView.swift */,
+				51B3D95F2BA30D4000C3B346 /* ContentView.swift */,
+				51B3D98C2BA318D900C3B346 /* SettingsView.swift */,
+				510FA8062BA5AED7003E0F0D /* AddWaterIntakeSheet.swift */,
+				510FA80F2BA627AF003E0F0D /* OnboardingView.swift */,
+				510FA8112BA638C0003E0F0D /* HomeView.swift */,
+				510FA8132BA63D2A003E0F0D /* CustomTabBar.swift */,
+				510FA8152BA65240003E0F0D /* ProgressBars.swift */,
+			);
+			path = UI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -237,7 +329,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				516B4C952BA834FF005FA6E6 /* 0.png in Resources */,
+				516B4C932BA834FF005FA6E6 /* 6.png in Resources */,
+				516B4C902BA834FF005FA6E6 /* 4.png in Resources */,
+				516B4C8C2BA834FF005FA6E6 /* 3.png in Resources */,
+				516B4C8B2BA834FF005FA6E6 /* 9.png in Resources */,
+				516B4C8F2BA834FF005FA6E6 /* 7.png in Resources */,
+				516B4C992BA834FF005FA6E6 /* 5.png in Resources */,
 				51B3D9652BA30D4300C3B346 /* Preview Assets.xcassets in Resources */,
+				516B4C982BA834FF005FA6E6 /* 1.png in Resources */,
+				516B4C8D2BA834FF005FA6E6 /* 8.png in Resources */,
+				516B4C912BA834FF005FA6E6 /* 2.png in Resources */,
 				51B3D9622BA30D4300C3B346 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -263,9 +365,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				510FA80A2BA5BC4B003E0F0D /* WaterIntakeViewModel.swift in Sources */,
+				51B3D98D2BA318D900C3B346 /* SettingsView.swift in Sources */,
 				51B3D9672BA30D4300C3B346 /* Persistence.swift in Sources */,
+				510FA8102BA627AF003E0F0D /* OnboardingView.swift in Sources */,
+				510FA8162BA65240003E0F0D /* ProgressBars.swift in Sources */,
+				510FA8142BA63D2A003E0F0D /* CustomTabBar.swift in Sources */,
+				510FA80E2BA62689003E0F0D /* global.swift in Sources */,
+				510FA8122BA638C0003E0F0D /* HomeView.swift in Sources */,
 				51B3D9602BA30D4000C3B346 /* ContentView.swift in Sources */,
+				510FA8072BA5AED7003E0F0D /* AddWaterIntakeSheet.swift in Sources */,
 				51B3D95E2BA30D4000C3B346 /* HydrifyApp.swift in Sources */,
+				510FA8192BA7889B003E0F0D /* NotificationDelegate.swift in Sources */,
+				510FA80C2BA5C193003E0F0D /* LogsView.swift in Sources */,
 				51B3D96A2BA30D4300C3B346 /* Hydrify.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -427,6 +539,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Hydrify/Preview Content\"";
@@ -436,6 +549,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -445,6 +559,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.tester.Hydrify;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -456,6 +571,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Hydrify/Preview Content\"";
@@ -465,6 +581,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -474,6 +591,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.tester.Hydrify;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
